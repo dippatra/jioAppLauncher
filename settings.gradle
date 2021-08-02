@@ -1,0 +1,3 @@
+include ':AppInfoModule'
+include ':app'
+rootProject.name = "JioAppLauncher"
